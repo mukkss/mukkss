@@ -1,4 +1,10 @@
-<h2 align="left">💫 About Me:  <br>🔭 I’m currently working on Agentic AI(FlexiMind)    <br>🌱 I’m currently learning Django.  <br>💬 Ask me about ML, NLP, Flask, LLM, Django  <br>📫 How to reach me: muksss1102@gmail.com.</h2>
+<h2 align="left">💫 About Me: </h2> 
+<p>
+<br>🔭 I’m currently working on Agentic AI(FlexiMind)    
+<br>🌱 I’m currently learning Django.  
+<br>💬 Ask me about ML, NLP, Flask, LLM, Django  
+<br>📫 How to reach me: muksss1102@gmail.com.</h2>
+</p>
 
 ###
 
