@@ -85,11 +85,7 @@
   </a>
 </div>
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/mukkss/mukkss/output/snake.svg" alt="Snake animation" />
 
 ###
 
