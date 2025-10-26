@@ -89,13 +89,6 @@
 ---
 <h2 align="center"> 📊 GitHub Analytics</h2>
 <div align="center">
-
-<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Data Flow GIF">&nbsp;
-<strong><em>Where code meets data flow...</em></strong>
-
-</div>
-
-<div align="center">
   <table>
     <tr>
       <td width="50%">
@@ -153,4 +146,13 @@
       <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
     </a>
   </div>
+</div>
+
+
+---
+
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quote=With%20unwavering%20faith%20and%20relentless%20effort,%20even%20the%20toughest%20challenges%20become%20bridges%20to%20success.&author=mukkss" alt="Quote">
+
 </div>
