@@ -22,15 +22,21 @@ Currently seeking Data Engineer / ML Internships & Open Source Projects.
 
 <img src="assets/headings/hd-stack.svg" width="620" alt="stack"/>
 
-<samp>python &nbsp; sql &nbsp; pyspark &nbsp; databricks &nbsp; snowflake &nbsp; airflow &nbsp; dbt &nbsp; postgresql &nbsp; mysql &nbsp; mongodb &nbsp; gcp &nbsp; azure</samp>
+<samp>python &nbsp; go &nbsp; c++ &nbsp; sql &nbsp; pytorch &nbsp; tensorflow &nbsp; fastapi &nbsp; pyspark &nbsp; langchain &nbsp; huggingface &nbsp; aws &nbsp; azure &nbsp; docker &nbsp; kubernetes &nbsp; linux &nbsp; ebpf</samp>
 
 <img src="assets/headings/hd-projects.svg" width="620" alt="projects"/>
 
-**[Azure Data Pipeline](#)** &nbsp;·&nbsp; <samp>azure, data factory</samp><br>
-End-to-end ETL data pipeline built with Azure Data Factory.
+**[AstraLM](#)** &nbsp;·&nbsp; <samp>pytorch, fsdp, mlflow, fastapi, docker</samp><br>
+Engineered a 130M params decoder-only LLM pretraining platform with custom BPE tokenizer.<br>
+Developed distributed ML infrastructure using DDP/FSDP for 1.8x higher throughput.
 
-**[NITK ML Competition](#)** &nbsp;·&nbsp; <samp>machine learning</samp><br>
-Secured 3rd Place in the Machine Learning Competition by NITK.
+**[Sentinel](#)** &nbsp;·&nbsp; <samp>ebpf, scikit-learn, kubernetes, prometheus</samp><br>
+Kernel-level AI observability platform using eBPF for real-time runtime threat detection.<br>
+Streams ~18K syscalls/sec into an anomaly detection pipeline with < 8.7 ms latency.
+
+**[NeuroLoom](#)** &nbsp;·&nbsp; <samp>react, fastapi, mongodb, adk</samp><br>
+Multi-agent biomedical research platform using NLI, RAG, and fine-tuned DeBERTa-v3.<br>
+Reduces literature review time by ~40% via semantic retrieval and parallel agent orchestration.
 
 <img src="assets/headings/hd-stats.svg" width="620" alt="stats"/>
 

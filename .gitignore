@@ -173,6 +173,7 @@ venv.bak/
 .mypy_cache/
 .dmypy.json
 dmypy.json
+assets/images/BlueHoodie_Normal_AI.png
 
 # Pyre type checker
 .pyre/
