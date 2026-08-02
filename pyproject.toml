@@ -1,0 +1,18 @@
+[project]
+name = "mukkss"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pillow",
+    "numpy",
+    "opencv-python-headless",
+    "rembg",
+    "onnxruntime",
+    "numba>=0.59.0",
+    "llvmlite>=0.42.0",
+]
+
+[tool.pyright]
+extraPaths = ["scripts"]
