@@ -1,9 +1,9 @@
 {
-  "total": 540,
+  "total": 536,
   "active": 106,
   "best_week": 48,
   "weekly": [
-    40,
+    35,
     25,
     29,
     3,
@@ -55,15 +55,10 @@
     14,
     0,
     4,
-    6
+    7
   ],
   "weeks": [
     [
-      {
-        "contributionCount": 5,
-        "date": "2025-08-04",
-        "weekday": 1
-      },
       {
         "contributionCount": 7,
         "date": "2025-08-05",
@@ -1984,16 +1979,21 @@
         "weekday": 0
       },
       {
-        "contributionCount": 0,
+        "contributionCount": 1,
         "date": "2026-08-03",
         "weekday": 1
+      },
+      {
+        "contributionCount": 0,
+        "date": "2026-08-04",
+        "weekday": 2
       }
     ]
   ],
   "current": {
-    "length": 2,
+    "length": 3,
     "start": "2026-08-01",
-    "end": "2026-08-02"
+    "end": "2026-08-03"
   },
   "longest": {
     "length": 8,
@@ -2019,7 +2019,7 @@
     ],
     [
       "C++",
-      44764
+      45380
     ]
   ],
   "by_repo": [
