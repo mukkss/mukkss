@@ -68,11 +68,11 @@
       c++
     </text>
     <text x="306.0" y="122" class="m-f" font-size="11" text-anchor="end">
-      4%
+      5%
     </text>
   </g>
   <g clip-path="url(#rl0)">
-    <path d="M116.0 114.0H123.8Q126.8 114.0 126.8 117.0V118.0Q126.8 121.0 123.8 121.0H116.0Z" class="d-f"/>
+    <path d="M116.0 114.0H124.2Q127.2 114.0 127.2 117.0V118.0Q127.2 121.0 124.2 121.0H116.0Z" class="d-f"/>
   </g>
   <rect y="20" width="2" height="110" class="d-f" opacity="0">
     <animate attributeName="x" from="116" to="268.0" begin="0.34s" dur="0.95s" fill="freeze"/>
