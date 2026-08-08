@@ -20,7 +20,7 @@
       python
     </text>
     <text x="306.0" y="34" class="m-f" font-size="11" text-anchor="end">
-      62%
+      61%
     </text>
   </g>
   <g clip-path="url(#rl0)">
@@ -36,7 +36,7 @@
     </text>
   </g>
   <g clip-path="url(#rl0)">
-    <path d="M116.0 48.0H161.9Q164.9 48.0 164.9 51.0V52.0Q164.9 55.0 161.9 55.0H116.0Z" class="d-f"/>
+    <path d="M116.0 48.0H161.8Q164.8 48.0 164.8 51.0V52.0Q164.8 55.0 161.8 55.0H116.0Z" class="d-f"/>
   </g>
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="0.34s" dur="0.45s" fill="freeze"/>
@@ -48,7 +48,7 @@
     </text>
   </g>
   <g clip-path="url(#rl0)">
-    <path d="M116.0 70.0H133.8Q136.8 70.0 136.8 73.0V74.0Q136.8 77.0 133.8 77.0H116.0Z" class="d-f"/>
+    <path d="M116.0 70.0H133.7Q136.7 70.0 136.7 73.0V74.0Q136.7 77.0 133.7 77.0H116.0Z" class="d-f"/>
   </g>
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="0.39s" dur="0.45s" fill="freeze"/>
@@ -56,11 +56,11 @@
       kotlin
     </text>
     <text x="306.0" y="100" class="m-f" font-size="11" text-anchor="end">
-      6%
+      5%
     </text>
   </g>
   <g clip-path="url(#rl0)">
-    <path d="M116.0 92.0H126.6Q129.6 92.0 129.6 95.0V96.0Q129.6 99.0 126.6 99.0H116.0Z" class="d-f"/>
+    <path d="M116.0 92.0H126.5Q129.5 92.0 129.5 95.0V96.0Q129.5 99.0 126.5 99.0H116.0Z" class="d-f"/>
   </g>
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="0.44s" dur="0.45s" fill="freeze"/>
@@ -72,7 +72,7 @@
     </text>
   </g>
   <g clip-path="url(#rl0)">
-    <path d="M116.0 114.0H124.2Q127.2 114.0 127.2 117.0V118.0Q127.2 121.0 124.2 121.0H116.0Z" class="d-f"/>
+    <path d="M116.0 114.0H125.2Q128.2 114.0 128.2 117.0V118.0Q128.2 121.0 125.2 121.0H116.0Z" class="d-f"/>
   </g>
   <rect y="20" width="2" height="110" class="d-f" opacity="0">
     <animate attributeName="x" from="116" to="268.0" begin="0.34s" dur="0.95s" fill="freeze"/>
@@ -96,7 +96,7 @@
       python
     </text>
     <text x="614.0" y="34" class="m-f" font-size="11" text-anchor="end">
-      17
+      18
     </text>
   </g>
   <g clip-path="url(#rl1)">
@@ -112,7 +112,7 @@
     </text>
   </g>
   <g clip-path="url(#rl1)">
-    <path d="M424.0 48.0H438.9Q441.9 48.0 441.9 51.0V52.0Q441.9 55.0 438.9 55.0H424.0Z" class="d-f"/>
+    <path d="M424.0 48.0H437.9Q440.9 48.0 440.9 51.0V52.0Q440.9 55.0 437.9 55.0H424.0Z" class="d-f"/>
   </g>
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="0.44s" dur="0.45s" fill="freeze"/>
@@ -124,7 +124,7 @@
     </text>
   </g>
   <g clip-path="url(#rl1)">
-    <path d="M424.0 70.0H438.9Q441.9 70.0 441.9 73.0V74.0Q441.9 77.0 438.9 77.0H424.0Z" class="d-f"/>
+    <path d="M424.0 70.0H437.9Q440.9 70.0 440.9 73.0V74.0Q440.9 77.0 437.9 77.0H424.0Z" class="d-f"/>
   </g>
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="0.49s" dur="0.45s" fill="freeze"/>
@@ -136,7 +136,7 @@
     </text>
   </g>
   <g clip-path="url(#rl1)">
-    <path d="M424.0 92.0H429.9Q432.9 92.0 432.9 95.0V96.0Q432.9 99.0 429.9 99.0H424.0Z" class="d-f"/>
+    <path d="M424.0 92.0H429.4Q432.4 92.0 432.4 95.0V96.0Q432.4 99.0 429.4 99.0H424.0Z" class="d-f"/>
   </g>
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="0.54s" dur="0.45s" fill="freeze"/>
@@ -148,7 +148,7 @@
     </text>
   </g>
   <g clip-path="url(#rl1)">
-    <path d="M424.0 114.0H429.9Q432.9 114.0 432.9 117.0V118.0Q432.9 121.0 429.9 121.0H424.0Z" class="d-f"/>
+    <path d="M424.0 114.0H429.4Q432.4 114.0 432.4 117.0V118.0Q432.4 121.0 429.4 121.0H424.0Z" class="d-f"/>
   </g>
   <rect y="20" width="2" height="110" class="d-f" opacity="0">
     <animate attributeName="x" from="424.0" to="576.0" begin="0.46s" dur="0.95s" fill="freeze"/>
