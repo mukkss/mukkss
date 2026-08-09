@@ -50,7 +50,7 @@ Reduces literature review time by ~40% via semantic retrieval and parallel agent
 
 </div>
 
-<img src="assets/headings/hd-about-this-page.svg" width="620" alt="about this page"/>
+<!-- <img src="assets/headings/hd-about-this-page.svg" width="620" alt="about this page"/>
 
 Every graphic here is generated, not embedded from anyone else's server.<br>
 `portrait.svg` is an image pushed through a character ramp by<br>
@@ -68,4 +68,4 @@ each graphic draws and inlined as base64. That isn't only for looks: the<br>
 portrait's grid assumes an advance width of exactly 0.600 em, and a viewer whose<br>
 default monospace is narrower would otherwise see it squeezed.
 
-Language totals cover public repositories only.
+Language totals cover public repositories only. -->
