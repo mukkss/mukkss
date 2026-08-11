@@ -36,7 +36,7 @@
     </text>
   </g>
   <g clip-path="url(#rl0)">
-    <path d="M116.0 48.0H161.3Q164.3 48.0 164.3 51.0V52.0Q164.3 55.0 161.3 55.0H116.0Z" class="d-f"/>
+    <path d="M116.0 48.0H161.2Q164.2 48.0 164.2 51.0V52.0Q164.2 55.0 161.2 55.0H116.0Z" class="d-f"/>
   </g>
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="0.34s" dur="0.45s" fill="freeze"/>
