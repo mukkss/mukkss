@@ -1,9 +1,9 @@
 {
-  "total": 531,
+  "total": 516,
   "active": 109,
   "best_week": 48,
   "weekly": [
-    20,
+    4,
     29,
     3,
     14,
@@ -55,15 +55,10 @@
     0,
     4,
     32,
-    10
+    11
   ],
   "weeks": [
     [
-      {
-        "contributionCount": 16,
-        "date": "2025-08-13",
-        "weekday": 3
-      },
       {
         "contributionCount": 0,
         "date": "2025-08-14",
@@ -1984,16 +1979,21 @@
         "weekday": 2
       },
       {
-        "contributionCount": 0,
+        "contributionCount": 1,
         "date": "2026-08-12",
         "weekday": 3
+      },
+      {
+        "contributionCount": 0,
+        "date": "2026-08-13",
+        "weekday": 4
       }
     ]
   ],
   "current": {
-    "length": 5,
+    "length": 6,
     "start": "2026-08-07",
-    "end": "2026-08-11"
+    "end": "2026-08-12"
   },
   "longest": {
     "length": 8,
@@ -2003,7 +2003,7 @@
   "by_size": [
     [
       "Python",
-      658978
+      659625
     ],
     [
       "JavaScript",
