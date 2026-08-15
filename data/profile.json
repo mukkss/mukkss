@@ -60,11 +60,6 @@
   "weeks": [
     [
       {
-        "contributionCount": 0,
-        "date": "2025-08-15",
-        "weekday": 5
-      },
-      {
         "contributionCount": 4,
         "date": "2025-08-16",
         "weekday": 6
@@ -1987,13 +1982,18 @@
         "contributionCount": 0,
         "date": "2026-08-14",
         "weekday": 5
+      },
+      {
+        "contributionCount": 0,
+        "date": "2026-08-15",
+        "weekday": 6
       }
     ]
   ],
   "current": {
-    "length": 7,
-    "start": "2026-08-07",
-    "end": "2026-08-13"
+    "length": 0,
+    "start": null,
+    "end": null
   },
   "longest": {
     "length": 8,
