@@ -46,12 +46,12 @@
   </g>
   <clipPath id="ry2">
     <rect x="34" y="66.0" height="11.0" width="0">
-      <animate attributeName="width" from="0" to="574.1" begin="0.44s" dur="0.40s" fill="freeze"/>
+      <animate attributeName="width" from="0" to="585.1" begin="0.44s" dur="0.40s" fill="freeze"/>
     </rect>
   </clipPath>
   <g clip-path="url(#ry2)">
     <text xml:space="preserve" x="34" y="74.6" class="d-f" font-size="9.2">
-      ::  ::  ::++  ##  @@::  ++      ++            ++++            ::      ++++                          ::++
+          ::  ::++  ##  @@::  ++      ++            ++++            ::      ++++                          ::++::
     </text>
   </g>
   <clipPath id="ry3">

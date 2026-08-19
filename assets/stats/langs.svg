@@ -36,7 +36,7 @@
     </text>
   </g>
   <g clip-path="url(#rl0)">
-    <path d="M116.0 48.0H161.0Q164.0 48.0 164.0 51.0V52.0Q164.0 55.0 161.0 55.0H116.0Z" class="d-f"/>
+    <path d="M116.0 48.0H160.9Q163.9 48.0 163.9 51.0V52.0Q163.9 55.0 160.9 55.0H116.0Z" class="d-f"/>
   </g>
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="0.34s" dur="0.45s" fill="freeze"/>
@@ -48,7 +48,7 @@
     </text>
   </g>
   <g clip-path="url(#rl0)">
-    <path d="M116.0 70.0H133.4Q136.4 70.0 136.4 73.0V74.0Q136.4 77.0 133.4 77.0H116.0Z" class="d-f"/>
+    <path d="M116.0 70.0H133.3Q136.3 70.0 136.3 73.0V74.0Q136.3 77.0 133.3 77.0H116.0Z" class="d-f"/>
   </g>
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="0.39s" dur="0.45s" fill="freeze"/>
