@@ -32,11 +32,11 @@
       javascript
     </text>
     <text x="306.0" y="56" class="m-f" font-size="11" text-anchor="end">
-      20%
+      19%
     </text>
   </g>
   <g clip-path="url(#rl0)">
-    <path d="M116.0 48.0H160.9Q163.9 48.0 163.9 51.0V52.0Q163.9 55.0 160.9 55.0H116.0Z" class="d-f"/>
+    <path d="M116.0 48.0H160.8Q163.8 48.0 163.8 51.0V52.0Q163.8 55.0 160.8 55.0H116.0Z" class="d-f"/>
   </g>
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="0.34s" dur="0.45s" fill="freeze"/>
