@@ -1,9 +1,9 @@
 {
-  "total": 489,
-  "active": 107,
+  "total": 487,
+  "active": 106,
   "best_week": 48,
   "weekly": [
-    2,
+    0,
     14,
     6,
     43,
@@ -59,11 +59,6 @@
   ],
   "weeks": [
     [
-      {
-        "contributionCount": 2,
-        "date": "2025-08-25",
-        "weekday": 1
-      },
       {
         "contributionCount": 0,
         "date": "2025-08-26",
@@ -1987,13 +1982,18 @@
         "contributionCount": 0,
         "date": "2026-08-24",
         "weekday": 1
+      },
+      {
+        "contributionCount": 0,
+        "date": "2026-08-25",
+        "weekday": 2
       }
     ]
   ],
   "current": {
-    "length": 1,
-    "start": "2026-08-23",
-    "end": "2026-08-23"
+    "length": 0,
+    "start": null,
+    "end": null
   },
   "longest": {
     "length": 8,
