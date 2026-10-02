@@ -21,13 +21,13 @@
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="0.26s" dur="0.45s" fill="freeze"/>
     <text x="344.0" y="44" class="e-f" font-size="34" font-weight="600">
-      8
+      7
     </text>
     <text x="344.0" y="64" class="m-f" font-size="11">
       longest streak
     </text>
     <text x="344.0" y="80" class="m-f" font-size="10">
-      oct 2 &#8211; oct 9
+      oct 3 &#8211; oct 9
     </text>
   </g>
 </svg>
