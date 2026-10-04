@@ -1,9 +1,8 @@
 {
-  "total": 400,
-  "active": 90,
+  "total": 399,
+  "active": 89,
   "best_week": 48,
   "weekly": [
-    1,
     30,
     0,
     48,
@@ -55,16 +54,10 @@
     0,
     0,
     0,
+    0,
     0
   ],
   "weeks": [
-    [
-      {
-        "contributionCount": 1,
-        "date": "2025-10-04",
-        "weekday": 6
-      }
-    ],
     [
       {
         "contributionCount": 9,
@@ -1987,6 +1980,13 @@
         "contributionCount": 0,
         "date": "2026-10-03",
         "weekday": 6
+      }
+    ],
+    [
+      {
+        "contributionCount": 0,
+        "date": "2026-10-04",
+        "weekday": 0
       }
     ]
   ],
