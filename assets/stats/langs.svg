@@ -20,7 +20,7 @@
       python
     </text>
     <text x="306.0" y="34" class="m-f" font-size="11" text-anchor="end">
-      62%
+      60%
     </text>
   </g>
   <g clip-path="url(#rl0)">
@@ -41,38 +41,38 @@
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="0.34s" dur="0.45s" fill="freeze"/>
     <text x="34" y="78" class="e-f" font-size="11">
-      typescript
+      go
     </text>
     <text x="306.0" y="78" class="m-f" font-size="11" text-anchor="end">
-      8%
+      9%
     </text>
   </g>
   <g clip-path="url(#rl0)">
-    <path d="M116.0 70.0H133.3Q136.3 70.0 136.3 73.0V74.0Q136.3 77.0 133.3 77.0H116.0Z" class="d-f"/>
+    <path d="M116.0 70.0H134.9Q137.9 70.0 137.9 73.0V74.0Q137.9 77.0 134.9 77.0H116.0Z" class="d-f"/>
   </g>
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="0.39s" dur="0.45s" fill="freeze"/>
     <text x="34" y="100" class="e-f" font-size="11">
-      kotlin
+      typescript
     </text>
     <text x="306.0" y="100" class="m-f" font-size="11" text-anchor="end">
-      5%
+      8%
     </text>
   </g>
   <g clip-path="url(#rl0)">
-    <path d="M116.0 92.0H126.3Q129.3 92.0 129.3 95.0V96.0Q129.3 99.0 126.3 99.0H116.0Z" class="d-f"/>
+    <path d="M116.0 92.0H133.3Q136.3 92.0 136.3 95.0V96.0Q136.3 99.0 133.3 99.0H116.0Z" class="d-f"/>
   </g>
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="0.44s" dur="0.45s" fill="freeze"/>
     <text x="34" y="122" class="e-f" font-size="11">
-      c++
+      kotlin
     </text>
     <text x="306.0" y="122" class="m-f" font-size="11" text-anchor="end">
       5%
     </text>
   </g>
   <g clip-path="url(#rl0)">
-    <path d="M116.0 114.0H125.0Q128.0 114.0 128.0 117.0V118.0Q128.0 121.0 125.0 121.0H116.0Z" class="d-f"/>
+    <path d="M116.0 114.0H126.3Q129.3 114.0 129.3 117.0V118.0Q129.3 121.0 126.3 121.0H116.0Z" class="d-f"/>
   </g>
   <rect y="20" width="2" height="110" class="d-f" opacity="0">
     <animate attributeName="x" from="116" to="268.0" begin="0.34s" dur="0.95s" fill="freeze"/>
@@ -129,7 +129,7 @@
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="0.49s" dur="0.45s" fill="freeze"/>
     <text x="342.0" y="100" class="e-f" font-size="11">
-      jupyter not
+      go
     </text>
     <text x="614.0" y="100" class="m-f" font-size="11" text-anchor="end">
       1
@@ -141,7 +141,7 @@
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="0.54s" dur="0.45s" fill="freeze"/>
     <text x="342.0" y="122" class="e-f" font-size="11">
-      kotlin
+      jupyter not
     </text>
     <text x="614.0" y="122" class="m-f" font-size="11" text-anchor="end">
       1

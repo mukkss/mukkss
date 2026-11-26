@@ -61,11 +61,6 @@
     [
       {
         "contributionCount": 0,
-        "date": "2025-11-26",
-        "weekday": 3
-      },
-      {
-        "contributionCount": 0,
         "date": "2025-11-27",
         "weekday": 4
       },
@@ -1987,6 +1982,11 @@
         "contributionCount": 0,
         "date": "2026-11-25",
         "weekday": 3
+      },
+      {
+        "contributionCount": 0,
+        "date": "2026-11-26",
+        "weekday": 4
       }
     ]
   ],
@@ -2007,7 +2007,11 @@
     ],
     [
       "JavaScript",
-      208349
+      208680
+    ],
+    [
+      "Go",
+      95365
     ],
     [
       "TypeScript",
@@ -2016,10 +2020,6 @@
     [
       "Kotlin",
       57866
-    ],
-    [
-      "C++",
-      52146
     ]
   ],
   "by_repo": [
@@ -2036,11 +2036,11 @@
       1
     ],
     [
-      "Jupyter Notebook",
+      "Go",
       1
     ],
     [
-      "Kotlin",
+      "Jupyter Notebook",
       1
     ]
   ]
